@@ -1,0 +1,11 @@
+NAME : test42
+COMMENT : 42 test points
+TYPE : TSP
+DIMENSION : 42
+EDGE_WEIGHT_TYPE : ATT
+NODE_COORD_SECTION
+Thread #0 Creado
+Thread #1 Creado
+Thread #2 Creado
+Thread #3 Creado
+
